@@ -1,6 +1,6 @@
 ﻿USE [alltic]
 GO
-/****** Object:  StoredProcedure [dbo].[PIPELINE_CLIENTE]    Stttcript Date: 6/26/2017 10:12:36 PM ******/
+/****** Object:  StoredProcedure [dbo].[PIPELINE_CLIENTE]    Sttthhhhhcript Date: 6/26/2017 10:12:36 PM ******/
 SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
